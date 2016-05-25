@@ -21,9 +21,7 @@
 # information: https://en.gravatar.com/site/implement/hash/
 #
 
-- name: Rowan Manning
-  role: Core Contributor
-  avatar: 9b617fb7c0a590faf58a516324ff53e2
-  email: info@rowanmanning.com
-  twitter: rowanmanning
-  github: rowanmanning
+- name: Kathleen James
+  role: Technical Author
+  twitter: typothecary
+  github: typothecary
